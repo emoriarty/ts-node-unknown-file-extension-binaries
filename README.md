@@ -1,6 +1,6 @@
 # ts-node-unknown-file-extension-binaries
 
-This repo is a minimal reproduction of this issue ERR_UNKNOWN_FILE_EXTENSION for binaries without extension.
+This repo is a minimal reproduction of the issue [ERR_UNKNOWN_FILE_EXTENSION for binaries without extension](https://github.com/TypeStrong/ts-node/issues/1943) of ts-node on node 18.
 
 ## Steps
 
